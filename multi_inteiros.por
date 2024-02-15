@@ -1,4 +1,4 @@
-//Leia	do	usuá rio	dois	números	inteiros,	execute	a	multiplicaçã o	entre	eles	e	então	imprima	o	 resultado.
+//Ler do usuário	dois	números	inteiros,	execute	a	multiplicação	entre	eles e	então	imprima	o	resultado.
 
 programa {
   funcao inicio() {
