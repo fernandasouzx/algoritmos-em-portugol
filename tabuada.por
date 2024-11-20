@@ -4,7 +4,7 @@ programa {
     escreva("Digite um valor:")
     leia(a)
     se (a<0){
-    escreva("Você digitou um valor negativo!!", "\n")
+    escreva("VocÃª digitou um valor negativo!!", "\n")
     }
     senao{
     escreva("Tabuada do ",a, "\n")
