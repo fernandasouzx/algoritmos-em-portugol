@@ -6,7 +6,7 @@ programa {
     escreva("digite o segundo valor:")
     leia(num2)
     mult= num1*num2
-    escreva("a multiplicação dos valores: ", mult)
+    escreva("a multiplicaÃ§Ã£o dos valores: ", mult)
 
 
     //outra forma de resolver esse algoritmo
